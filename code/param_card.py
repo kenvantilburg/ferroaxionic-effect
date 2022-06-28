@@ -1,7 +1,7 @@
 from natural_units_GeV import *
 
 ##############################
-##### CRYSTAL PARAMETERS #####
+##### SOURCE PARAMETERS ######
 ##############################
 
 R_S = 10; #relativistic enhancement factor divided by effective quantum numbers
