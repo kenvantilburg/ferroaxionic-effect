@@ -20,7 +20,6 @@ S_schiff_over_theta = 5 * e_EM * fm**3; # Schiff moment proportionality constant
 P_nuc = 1 # nuclear spin polarization fraction
 
 mu_N = mu_nuclear # nuclear magnetic moment
-T_2 = 10**(-3) * second # transverse spin coherence time
 
 ##############################
 ##### READOUT PARAMETERS #####
