@@ -22,7 +22,7 @@ fontsize = 12
 from matplotlib import font_manager
 from matplotlib import rcParams
 from matplotlib import rc
-rcParams['font.family'] = 'sans-serif'
+rcParams['font.family'] = 'serif'
 font_manager.findfont('serif', rebuild_if_missing=True)
 rcParams.update({'font.size':fontsize})
-#rc('text', usetex=True)
+rc('text', usetex=True)
