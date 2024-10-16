@@ -14,8 +14,6 @@ from IPython.core.display import display, HTML
 from IPython.display import display, clear_output
 display(HTML("<style>.container { width:100% !important; }</style>"))
 np.set_printoptions(edgeitems=3, linewidth=200) 
-pd.set_option('display.max_columns', None)
-pd.set_option('max_rows',200) and pandas.set_option('max_columns',20)
 
 plt.rcdefaults()
 fontsize = 12
