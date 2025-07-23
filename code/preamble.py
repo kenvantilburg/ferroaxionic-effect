@@ -10,10 +10,10 @@ from scipy.optimize import fmin
 from scipy.optimize import minimize
 from scipy.optimize import brentq
 
-from IPython.core.display import display, HTML
-from IPython.display import display, clear_output
-display(HTML("<style>.container { width:100% !important; }</style>"))
-np.set_printoptions(edgeitems=3, linewidth=200) 
+# from IPython.core.display import display, HTML
+# from IPython.display import display, clear_output
+# display(HTML("<style>.container { width:100% !important; }</style>"))
+# np.set_printoptions(edgeitems=3, linewidth=200) 
 
 plt.rcdefaults()
 fontsize = 12
