@@ -12,6 +12,10 @@ We show that piezoelectric materials can be used to source virtual QCD axions, g
 
 The [code](code/) folder contains various Jupyter notebooks that reproduce the plots in the paper, which are in the [figs](figs/) folder. These are linked to from the paper. All code is written in natural units with hbar = c = k_B = 1, with constants defined in [my_units.py](code/my_units.py).
 
+## Data
+
+The data underlying the figures in the paper can be found tabulated in the data folder. These are evaluated and saved in the code section.
+
 ## Authors
 
 -  Asimina Arvanitaki (aarvanitaki@perimeterinstitute.ca)
