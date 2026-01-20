@@ -21,7 +21,8 @@ The data underlying the figures in the paper can be found tabulated in the data 
 -  Asimina Arvanitaki (aarvanitaki@perimeterinstitute.ca)
 -  Jonathan Engel
 -  Andrew Geraci
--  Amalia Madden (amadden@perimeterinstitute.ca)
+-  Amalia Madden (amadden@kitp.ucsb.edu)
+-  Alexander Hepburn
 -  Ken Van Tilburg (kenvt@nyu.edu)
 
 ## Citation
