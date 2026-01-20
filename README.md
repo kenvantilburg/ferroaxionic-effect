@@ -1,6 +1,7 @@
 # ferroaxionic-effect
 
 Code repository for the paper **The Ferroaxionic Effect** by Asimina Arvanitaki, Jonathan Engel, Andrew Geraci, Amalia Madden, and Ken Van Tilburg. [arXiv:2411.10516]
+
 Accepted to PRL: https://doi.org/10.1103/6xw1-1715
 
 ## Abstract
