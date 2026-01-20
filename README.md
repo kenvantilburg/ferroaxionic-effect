@@ -1,6 +1,6 @@
-# ferroaxionic-effect
+# Detecting the QCD axion via the ferroaxionic force with piezoelectric materials
 
-Code repository for the paper **The Ferroaxionic Effect** by Asimina Arvanitaki, Jonathan Engel, Andrew Geraci, Alexander Hepburn, Amalia Madden, and Ken Van Tilburg. [arXiv:2411.10516]
+Code repository for the paper **Detecting the QCD axion via the ferroaxionic force with piezoelectric materials** by Asimina Arvanitaki, Jonathan Engel, Andrew Geraci, Alexander Hepburn, Amalia Madden, and Ken Van Tilburg. [arXiv:2411.10516]
 
 Accepted to PRL: https://doi.org/10.1103/6xw1-1715
 
@@ -29,10 +29,16 @@ The data underlying the figures in the paper can be found tabulated in the data 
 
 If you use this code, please cite our paper:
 ```
-@article{ferroaxionic-effect-2022,
-  title={The Ferroaxionic Effect},
-  author={Arvanitaki, Asimina and Engel, Jonathan and Geraci, Andrew and  Madden, Amalia and Van Tilburg, Ken},
-  journal={arXiv preprint arXiv:22??.?????},
-  year={2022}
+@article{6xw1-1715,
+  title = {Detecting the QCD axion via the ferroaxionic force with piezoelectric materials},
+  author = {Arvanitaki, Asimina, Engel, Jonathan, Geraci, Andrew A., Hepburn, Alexander, Madden, Amalia, and Tilburg, Ken Van},
+  journal = {Phys. Rev. Lett.},
+  pages = {--},
+  year = {2026},
+  month = {Jan},
+  publisher = {American Physical Society},
+  doi = {10.1103/6xw1-1715},
+  url = {https://link.aps.org/doi/10.1103/6xw1-1715}
 }
+
 ```
